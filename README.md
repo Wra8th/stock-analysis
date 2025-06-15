@@ -1,5 +1,5 @@
-End to End Data Engineering Project.
-Hybrid Model (On prem) (Planned)
+End to End Data Engineering Project. 
+Hybrid Model (Currently On prem) (Cloud Migration to be Planned)
 Realtime/Batch workflow
 SCD-1 
 
