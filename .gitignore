@@ -1,1 +1,7 @@
 .env
+dataeng/
+airflow/apps/
+airflow/config/
+airflow/include/
+airflow/logs/
+airflow/plugins/
